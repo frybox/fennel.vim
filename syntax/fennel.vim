@@ -287,7 +287,8 @@ hi def link FennelStringDelimiter String
 hi def link FennelBoolean Boolean
 
 hi def link FennelQuote SpecialChar
-hi def link FennelParen Delimiter
+" hi def link FennelParen Delimiter
+hi def link FennelParen Comment
 
 let b:current_syntax = "fennel"
 
