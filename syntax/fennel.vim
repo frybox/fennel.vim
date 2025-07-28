@@ -288,6 +288,7 @@ hi def link FennelBoolean Boolean
 
 hi def link FennelQuote SpecialChar
 " hi def link FennelParen Delimiter
+" make paren disappear
 hi def link FennelParen Comment
 
 let b:current_syntax = "fennel"
